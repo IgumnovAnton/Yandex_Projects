@@ -1,1 +1,4 @@
 .DS_Store
+.Telecom_Project/catboost_info
+.Telecom_Project/db_config.py
+.Telecom_Project/__pycache__
