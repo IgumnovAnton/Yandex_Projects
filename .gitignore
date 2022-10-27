@@ -1,4 +1,4 @@
 .DS_Store
-./catboost_info
-./db_config.py
-./__pycache__
+.catboost_info
+.db_config.py
+.__pycache__
