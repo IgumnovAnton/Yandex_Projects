@@ -1,5 +1,7 @@
 # Прогнозирование заказов такси
 
+[Ссылка на nbviewer, если GitHub не прогружает тетрадку](https://nbviewer.org/github/IgumnovAnton/Yandex_Projects/blob/main/Taxi_Project/taxi_project.ipynb)
+
 ## **Info**
 Оператор сервиса Такси хочет уметь прогнозировать **объем заказов**
 
