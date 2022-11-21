@@ -1,5 +1,7 @@
 # Прогнозирование оттока клиентов для Телеком компании
 
+[Ссылка на nbviewer, если GitHub не прогружает тетрадку](https://nbviewer.org/github/IgumnovAnton/Yandex_Projects/blob/main/Telecom_Project/telecom_project.ipynb)
+
 ## **Info**
 Оператор связи хочет уметь прогнозировать **отток клиентов**
 
