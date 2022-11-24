@@ -1,5 +1,12 @@
 # Токсичные комментарии
 
+Ссылки на nbviewer, если GitHub не прогружает тетрадку
+
+[Toxic_BERT](https://nbviewer.org/github/IgumnovAnton/Yandex_Projects/blob/main/Toxic/Toxic_BERT.ipynb)
+
+[Toxic_TFIDF](https://nbviewer.org/github/IgumnovAnton/Yandex_Projects/blob/main/Toxic/Toxic_TFIDF.ipynb)
+
+
 Проект выполнен в двух вариантах для образовательных целей:
 - Toxic_BERT.ipynb с использованием предобученной модели BERT
 - Toxic_TFIDF.ipynb с использованием tf-idf
